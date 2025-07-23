@@ -1,2 +1,2 @@
 # BracketValidator
-2025_FenrirIntern
+2025_FenrirInternship
